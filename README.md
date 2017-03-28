@@ -6,9 +6,11 @@ This Project Is About Tracking Objects By Their Color
 
 2.Copy Or Download The Project
 
-3.Open .JS File with P5 Editor , this will also open up other files :)
+3.Open P5 Editor 
 
-4.If You Are Going To Track Any Specific Color You Need To Change RGB Values
+4.File --> Open --> .JS File , This Will Also Open Up Other Files :)
+
+5.If You Are Going To Track Any Specific Color You Need To Change RGB Values
 
 # Changing RGB Values
 Inside the .JS File You Can Find This Code Block , If You Want To Track Your Own Object You Need To Change This Part.
