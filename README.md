@@ -4,7 +4,7 @@ This Project Is About Tracking Objects By Their Color
 # How To Use It ? 
 1.Download P5 Editor
 
-2.Copy Or Download The Project
+2.Download The .ZIP File
 
 3.Open P5 Editor 
 
